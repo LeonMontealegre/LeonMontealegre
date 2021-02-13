@@ -10,10 +10,7 @@ My website is http://leonmontealeg.re/
 
 ## What I'm up to
 
-Currently, I'm doing a lot of small side-projects related to physics simulation, along with readily working on [OpenCircuits](https://github.com/OpenCircuits/).
-
-## Let's talk
-
+Currently, I'm doing a lot of small side-projects related to physics simulation, along with readily working on [OpenCircuits](https://github.com/OpenCircuits/).  
 You can follow me on [Twitter](https://twitter.com/KingDolphinGuy), [Instagram](https://instagram.com/LeonMontealegre) or whatever else you can find me on probably.
 
 ---
